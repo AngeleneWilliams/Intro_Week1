@@ -10,16 +10,17 @@
   - Windows
   - Mac
   - Linux
-
+tildy ~= home directory 
 - Some fundamentals
-  - Memory (RAM)
-  - File storage (hard drives)
-  - CPU
-  - GPU
+  - Memory (RAM)- temporay memory
+  - File storage (hard drives)- more stable permanent memory
+  - CPU-central processing units
+    
+  - GPU-graphic processing unit( many tiny processors)
 
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/Filesystems.md)
- 	- The Unix root (/)
+ 	- The Unix root (/)- the folder that holds everything
    		- The very base of the filesystem
 	- Absolute paths
 		- All absolute paths begin at the root- start with /
