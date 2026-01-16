@@ -3,7 +3,7 @@
 - Introductions
 
 - Syllabus Overview and Questions
-	
+	submit usernames
 - Survey
 
 - Overview of Operating Systems
